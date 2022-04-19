@@ -1,0 +1,586 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+
+body{
+    background-color: #E9FAFC;
+
+   
+}
+.MamaYao nav{
+    text-align: right;
+}
+
+.MamaYao__nav-bar nav li{
+    display: inline;
+    margin: 1% 1% 0 3%;
+    color: rgb(82, 80, 80);
+
+}
+.MamaYao__nav-bar h1 span{
+    color: #25B0B8;   
+    font-size: 40px;
+
+}
+.MamaYao__Veterinary-clinic h4{
+    color: orange;
+    margin:15% 0 0 3%;
+    width: 20%;
+}
+.MamaYao__Veterinary-clinic h1{
+    margin: 3% 0 0 3%;
+    font-size: 80px;
+    width: 50%;
+    
+}
+.MamaYao__Veterinary-clinic p{
+    margin: 3% 0 0 3%;
+    color: rgba(122, 48, 172, 0.795);
+   font-size: 20px;
+    width: 25%;
+}
+.press{
+    margin: 5% 2% 0 3%;
+    background-color: #42A1AB;
+    width: 10%;
+    padding: 1%;
+    border-radius: 10px;
+    color: #fff;
+    border: none;
+}
+.MamaYao__Veterinary-clinic i{
+    color: #42A1AB;
+   background-color: #d7f5f8;
+   padding: 15px;
+   border-radius: 150%;
+   box-shadow: #42A1AB;
+}
+.image{
+    border-radius: 100%;
+    width: 3%;
+    float: right;
+    margin: -40% 32% 0 0;
+    padding: 3% 16%;
+    z-index: 10;
+    
+}
+.image img{
+    border: 85px solid #CFE4E7;
+    margin:30%;
+    border-radius: 50%;
+    height: 500px;
+   
+}
+.mtoto-wao__firstborn{
+    background-color: #F7FEFF;
+    margin: 3% 0 0 0;
+    width:100vw;
+    height:150vh
+}
+.h2{
+margin: 0 0 0 5%;
+}
+.which__service h2{
+    margin: 3% 0 0 2%;
+    width: 42%;
+    font-size: 50px;
+    
+    padding: 2%;
+}
+.service{
+    width: 32%;
+    float:right;
+    margin: -3% 2% 0 0%;
+    font-size: 24px;
+
+}
+.our-services{
+    margin-top:3%;
+
+}.column{
+    margin: 12px;
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+
+.radiology{
+    background-color: #fff;
+    padding:60px;
+    width: 15%;
+    margin:  5% 0 4% 5% ;
+}
+
+.radiology i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+}
+
+.radiology h3{
+    margin:  5% 0 4% 0 ;
+}
+
+.radiology p{
+    color:#383838;
+}
+
+.ambulance{
+    background-color: #fff;
+    padding:60px;
+    width:15%;
+    margin: -17%  50% 0 40%;
+}
+
+.ambulance i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+ 
+}
+
+.ambulance h3{
+    margin:  5% 0 4% 0 ;
+}
+
+.ambulance p{
+    color:#383838;
+}
+
+.dental-care{
+    background-color: #fff;
+    padding:60px;
+    width:15%;
+    margin: -14%  50% 0 70%;  
+}
+.dental-care p{
+    font-weight: lighter;
+    /* border: 2px solid; */
+    width: 120%;
+    margin: 16px 0 0 0;
+}
+.dental-care i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+}
+.our-services{
+    margin-top: 10%;
+}
+.Operation{
+    background-color: #fff;
+    padding:60px;
+    width: 15%;
+    margin:  4% 0 4% 5% ;
+}
+.Operation i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+}
+.Operation p{
+    margin:  5% 0 4% 0 ;
+}
+.Operation h3{
+    margin:  5% 0 4% 0 ;
+}
+.Parturition{
+    background-color: #fff;
+    padding:60px;
+    width:15%;
+    margin: -20%  50% 0 40%;
+}
+.Parturition i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+ 
+}
+.Parturition h3{
+    margin:  5% 0 4% 0 ;
+}
+.Parturition p{
+    margin:  5% 0 4% 0 ;
+}
+.Pet-Hostel{
+    background-color: #fff;
+    padding:60px;
+    width:15%;
+    margin: -14%  50% 0 70%;  
+}
+.Pet-Hostel i{
+    margin: -50% 0 0 0 ;
+    color: #42A1AB;
+    background-color: #E9FAFC;
+    border-radius: 100%;
+    border: 10%;
+    padding: 3%;
+}
+.Pet-Hostel h3{
+    margin:  5% 0 4% 0 ;
+    width: 65%;
+   
+}
+.Pet-Hostel p{
+    width: 105%;
+}
+.profile{
+background-color: #E9FAFC;
+}
+.profile__image{
+background-color: #CFE4E7;
+margin: 8% 0 0 8%;
+width: 32%;
+border-radius: 3%;
+}
+.best-vet h2{
+margin: 12% 0 0 0;
+font-size: 56px ;
+
+}
+.best-vet p{
+font-size: 20px;
+margin: 9% 0 0 0;
+}
+.best-vet{
+    float: right;
+    margin: -40% 8% ;
+    width: 40%;
+}
+.presss{
+    margin: 5% 0 0 0;
+    background-color:#42A1AB ;
+    padding:3% ;
+    width: 35%;
+    border-radius: 8%;
+    border: none;
+    color: #F7FEFF;
+    font-size: 24px;
+}
+.feedbacks h1{
+    margin: 10% 0 0 8%;
+    font-size: 56px;
+
+
+}
+.feedbacks p{
+    /* float: right; */
+    font-size: 24px;
+    margin: -3% 48% 0 60%;
+    width: 24%;
+    /* border: 2px solid; */
+}
+.feedbacks__comment{
+background-color: #F7FEFF;
+width: 40%;
+margin: 9%;
+}
+
+.feedbacks__comment i{
+    font-size: 96px;
+    color: #b1e5eb;
+    margin: 10% 0 0 8%;
+}
+.feedbacks__comment h4{
+font-size: 32px;
+margin: 10% 0 0 8%;
+}
+.feedbacks__comment p{
+font-size: 24px;
+/* border: 2px solid; */
+width: 75%;
+margin: 5% 0 0 8%;
+}
+.commentor h3{
+/* border: 2px solid; */
+width: 25%;
+margin: 8% 0 0 17%;
+}
+.commentor p{
+/* border: 2px solid; */
+width: 20%;
+margin: 2% 0 -2% 16%;
+color: #8587A5;
+}
+.commentor img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin:-9% 0 2% 4% ;
+
+}
+.ratings img{
+    width: 28%;
+    margin: 0 0 0 5%;
+    
+}
+.comment2 h3{
+    width: 25%;
+    margin: 8% 0 7% 16%;
+    /* border: 2px solid; */
+}
+
+.comment2 h4{
+    /* border: 2px solid; */
+    width: 65%;
+    margin: 0% 50% 0 8%;
+    font-size:30px;
+    
+}
+
+.commentor2 h3{
+    /* border: 2px solid; */
+    width:20%;
+    margin: 5% 0 0 16%;
+}
+.comment2 p{
+    border: 2px solid;
+    width: 61%;
+    margin: 2% 10% 0 10% ;
+    font-size:20px;
+    line-height: 30px;
+}
+.commentor2 img{
+    /* border: 2px solid; */
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.ratings2 img{
+    width: 28%;
+    margin: 0 0 0 5%;
+   
+}
+.commentor2 p{
+    width: 18%;
+    border: 2px solid;
+    margin: 8% 18% 0 25%;
+}
+.comment2{
+
+    float: right;
+    width: 40%;
+    height: 180%;
+    margin: -24% 0 0 -20%;
+    background-color: #F7FEFF;
+}
+
+.Qualified__vets{
+    margin-top: 10%;
+}
+.Qualified__vets h1{
+    margin:5% 0 5% 3%;
+    font-size:40px;
+    width:70%;
+}
+
+
+.guy img{
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+    margin: 0 5% 0 5%;
+}
+.comment2{
+    margin-top: -43%;
+}
+.chrome{
+    display: flex;
+}
+.row{
+    display: flex;
+    gap: 8rem;
+    margin:0 10% 0 0 ;
+}
+.column{
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 12px; */
+    height: 500px;
+    width: 30%;
+    background-color: #FFFFFF;
+}
+.commentor{
+    display: flex;
+}
+.column h4{
+    padding: 8%;
+    margin: 10 0 0 0;
+}
+.column p{
+    padding: 8%;
+    margin: -15% 0 -10% 0;
+}
+.lan h3{
+    padding:8% ;
+}
+.commentor p{
+    
+    /* border: 2px solid; */
+    width: 58%;
+    margin: 0 58% 5% 0;
+}
+.column img{
+    background-color: #F4F0FD;
+}
+.column2 img{
+    background-color: #E3FDFE;
+    
+}
+.column3 img{
+    background-color: #FEF5F0;
+}
+.subscribe__box{
+    background-color:#cbf2f6;
+    padding:8%;
+    width:50%;
+    margin:10% 0 5% 7%;
+    border-radius: 10px;
+}
+.subscribe__box h1{
+    font-size: 45px;
+    width:70%;
+    margin:-9% 0 0 15%;
+}
+.subscribe input{
+    width:60%;
+    padding:35px;
+    border-radius:12px;
+    font-size:18px;
+    border: 2px solid #fff;
+}
+.subscribe__button{
+    margin: 0 0 0 -18%;
+    width: 15%;
+    padding: 2%;
+    border:none;
+    border-radius: 9px;
+    background-color: #42A1AB;
+}
+.subscribe__box h1{
+    margin: 0 -10% 8% 0;
+
+}
+.subscribe__box{
+    padding: 8%;
+    align-content: center;
+    margin: 8% 0 0 20%;
+
+}
+.footer{
+    background: #eefffe;
+    height:45vh;
+     
+ }
+ .yourpet h5{
+    margin: 3% 0 0 7%;
+    width:10%;
+    font-size:15px;
+ }
+
+ .yourpet span{
+     color:#35B6C4;
+     font-size:50px
+ }
+
+ .yourpet p{
+    margin: 1% 0 0 7%;
+    color:#737e7c;
+    line-height:25px;
+    width:15%
+ }
+
+ .icons{
+     display: flex;
+     margin: 1% 4% 1% 7%;
+ }
+
+ .facebook i{
+     color:#17326d;
+     
+ }
+
+ .twitter i{
+     color: #35B6C4;
+    
+ }
+  
+ .google i{
+     color: rgb(195, 50, 50);
+ }
+
+ .linkedin{
+     color: #0d2a68;
+ }
+
+ .product h5{
+    margin: -11% 0 0 36%;
+    width:10%;
+    font-size:15px; 
+ }
+
+ .product p{
+    margin: 1% 0 0 36%;
+    color:#737e7c;
+    line-height:25px;
+    width:15%
+
+ }
+
+ .community h5{
+    margin: -14% 0 0 56%;
+    width:10%;
+    font-size:15px; 
+
+ }
+
+ .community p{
+    margin: 1% 0 0 56%;
+    color:#737e7c;
+    line-height:25px;
+    width:15% 
+ }
+
+ .about h5{
+    margin: -16% 0 0 76%;
+    width:10%;
+    font-size:15px;  
+ }
+
+ .about p{
+    margin: 1% 0 0 76%;
+    color:#737e7c;
+    line-height:25px;
+    width:15%
+ 
+ }
+ .about{
+     margin: 4% 0 0 0;
+ }
+ .community{
+     margin: 4% 0 0 0;
+ }
+ .icons{
+     gap: 1rem;
+ }
+
+
+
